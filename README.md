@@ -1,2 +1,2 @@
 # my-picture-bed
-个人图床
+Typora+PicGo配套Markdown文档用图床
